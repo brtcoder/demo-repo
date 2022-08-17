@@ -9,7 +9,7 @@ Repository
 [by Gwendolyn Faraday]
 [https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2]
 
-[TimeLine]
+[TimeLine] /r
 [1:10 What is git]
 [1:30 What is version control]
 [2:10 Terms to be learn in video]

@@ -32,3 +32,5 @@ Repository
 [56:30 Undoing in git]
 [1:01:50 Forking in git]
 [1:07:55 Ending]
+
+(outdated)
